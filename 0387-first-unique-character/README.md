@@ -63,3 +63,4 @@ LeetCode
 ## **Problem Number: 387**
 
 ## **Difficulty: Easy**
+## ** Leetcode Problem Link : https://leetcode.com/problems/first-unique-character-in-a-string
